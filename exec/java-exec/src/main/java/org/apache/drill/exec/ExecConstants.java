@@ -45,4 +45,6 @@ public interface ExecConstants {
   public static final String USER_SERVER_RPC_THREADS = "drill.exec.rpc.user.server.threads";
   public static final String TRACE_DUMP_DIRECTORY = "drill.exec.trace.directory";
   public static final String TRACE_DUMP_FILESYSTEM = "drill.exec.trace.filesystem";
+  public static final String NULL_EXPRESSION = "NULLEXPRESSION";
+  
 }
